@@ -6,7 +6,6 @@ You can view my website here.
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
 Syntax highlighted code block
 
 It is very easy to use.!!
@@ -24,6 +23,10 @@ It is very easy to use.!!
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
+
+
+```
+This is a block of code.
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
